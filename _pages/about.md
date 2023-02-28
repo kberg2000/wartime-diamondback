@@ -8,5 +8,5 @@ Change this to write something about this exercise.
 
 This text is **italic**.
 
-This is an example paragraph
+Kaylie's super cool about page
 
